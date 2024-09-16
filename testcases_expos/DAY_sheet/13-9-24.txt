@@ -1,0 +1,4 @@
+1.different comment types like #,##,"""
+2.ord() - get the ascii value for unicode character
+3.datetime module- datetime.datetime.now() prints current time date
+4.strptime() : gets the string and convert itto the datetime format
